@@ -10,3 +10,4 @@ Repository for projects in the course by [@bradtraversy](https://github.com/brad
 | 04  | Exchange Rate Calculator | Fetch & JSON Intro                 | [Demo](https://raubaca.github.io/20-projects-vanilla-js/exchange-rate-calculator/) |
 | 05  | DOM Array Methods        | forEach, map, filter, sort, reduce | [Demo](https://raubaca.github.io/20-projects-vanilla-js/dom-array-methods/)        |
 | 06  | Menu Slider & Modal      | DOM & CSS                          | [Demo](https://raubaca.github.io/20-projects-vanilla-js/menu-slider-modal/)        |
+| 07  | Hangman Game             | DOM, SVG, Events                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/hangman-game/)             |
