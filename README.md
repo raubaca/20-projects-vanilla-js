@@ -16,3 +16,4 @@ Repository for projects in the course by [@bradtraversy](https://github.com/brad
 | 10  | Music Player             | HTML5 Audio API                    | [Demo](https://raubaca.github.io/20-projects-vanilla-js/music-player/)             |
 | 11  | Infinity Scroll Posts    | Fetch, Async/Await, CSS Loader     | [Demo](https://raubaca.github.io/20-projects-vanilla-js/infinity-scroll-posts/)    |
 | 12  | Typing Game              | DOM, Intervals, Events             | [Demo](https://raubaca.github.io/20-projects-vanilla-js/typing-game/)              |
+| 13  | Speech Text Reader       | Speech Synthesis                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/speech-text-reader/)       |
