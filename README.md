@@ -12,3 +12,7 @@ Repository for projects in the course by [@bradtraversy](https://github.com/brad
 | 06  | Menu Slider & Modal      | DOM & CSS                          | [Demo](https://raubaca.github.io/20-projects-vanilla-js/menu-slider-modal/)        |
 | 07  | Hangman Game             | DOM, SVG, Events                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/hangman-game/)             |
 | 08  | Meal Finder              | Fetch & MealDB API                 | [Demo](https://raubaca.github.io/20-projects-vanilla-js/meal-finder/)              |
+| 09  | Expense Tracker          | Array Methods & Local Storage      | [Demo](https://raubaca.github.io/20-projects-vanilla-js/expense-tracker/)          |
+| 10  | Music Player             | HTML5 Audio API                    | [Demo](https://raubaca.github.io/20-projects-vanilla-js/music-player/)             |
+| 11  | Infinity Scroll Posts    | Fetch, Async/Await, CSS Loader     | [Demo](https://raubaca.github.io/20-projects-vanilla-js/infinity-scroll-posts/)    |
+| 12  | Typing Game              | DOM, Intervals, Events             | [Demo](https://raubaca.github.io/20-projects-vanilla-js/typing-game/)              |
