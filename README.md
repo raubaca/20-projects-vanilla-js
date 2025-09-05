@@ -18,3 +18,4 @@ Repository for projects in the course by [@bradtraversy](https://github.com/brad
 | 12  | Typing Game              | DOM, Intervals, Events             | [Demo](https://raubaca.github.io/20-projects-vanilla-js/typing-game/)              |
 | 13  | Speech Text Reader       | Speech Synthesis                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/speech-text-reader/)       |
 | 14  | Memory Cards             | CSS Effects, Local Storage         | [Demo](https://raubaca.github.io/20-projects-vanilla-js/memory-cards/)             |
+| 15  | LyricsSearch App         | Fetch, Pagination, Lyrics.ovh API  | [Demo](https://raubaca.github.io/20-projects-vanilla-js/lyrics-search/)            |
