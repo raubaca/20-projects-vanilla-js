@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #fff;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2)),
+    url('https://images.unsplash.com/photo-1514876246314-d9a231ea21db?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 60px;
+  margin: -80px 0 40px;
+}
+
+.year {
+  position: absolute;
+  bottom: 20px;
+  z-index: -1;
+  font-size: 200px;
+  opacity: 0.2;
+}
+
+.countdown {
+  display: none;
+  scale: 2;
+}
+
+.time {
+  display: grid;
+  place-items: center;
+  margin: 15px;
+  h2 {
+    margin: 0 0 5px;
+  }
+}
+
+@media (width < 500px) {
+  h1 {
+    font-size: 45px;
+  }
+  .time {
+    margin: 5px;
+    h2 {
+      font-size: 12px;
+      margin: 0;
+    }
+    small {
+      font-size: 10px;
+    }
+  }
+}
