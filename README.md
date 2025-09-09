@@ -22,3 +22,4 @@ Repository for projects in the course by [@bradtraversy](https://github.com/brad
 | 16  | Relaxer App              | CSS Animations, setTimeout         | [Demo](https://raubaca.github.io/20-projects-vanilla-js/relaxer/)                  |
 | 17  | Breakout Game            | HTML5 Canvas API                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/breakout-game/)            |
 | 18  | New Year Countdown       | DOM, Date & Time                   | [Demo](https://raubaca.github.io/20-projects-vanilla-js/new-year-countdown/)       |
+| 19  | Sortable List            | Drag & Drop API                    | [Demo](https://raubaca.github.io/20-projects-vanilla-js/sortable-list/)            |
